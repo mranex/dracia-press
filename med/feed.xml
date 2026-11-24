@@ -1,22 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dracia Press — Y khoa</title>
     <link>https://news.mranex.com/med/</link>
-    <description>Tin tức và khuyến cáo Y khoa cập nhật mỗi ngày.</description>
+    <description>Tin Y khoa mới nhất và Kiến thức hôm nay, cập nhật mỗi ngày.</description>
     <language>vi-VN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:20:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:40:00 +0700</lastBuildDate>
+    <item>
+      <title>Suy tim theo ESC 2026: chỉ còn hai kiểu hình, HFrEF mở rộng tới LVEF dưới 50%</title>
+      <link>https://www.escardio.org/news/news-room/congress-news/2026-esc-guidelines-for-the-management-of-heart-failure/</link>
+      <guid isPermaLink="false">dracia-knowledge-20261124-001</guid>
+      <pubDate>Tue, 24 Nov 2026 18:40:00 +0700</pubDate>
+      <source url="https://www.escardio.org/">European Society of Cardiology — 2026 ESC Guidelines for the management of heart failure</source>
+      <category domain="channel">knowledge</category>
+      <category domain="specialty">tim-mach</category>
+      <category domain="specialty">noi-khoa</category>
+      <category domain="badge">Guideline</category>
+      <description><![CDATA[ESC 2026 bỏ nhóm HFmrEF: suy tim giờ chỉ còn hai kiểu hình HFrEF (LVEF dưới 50%) và HFpEF (từ 50% trở lên). Bốn trụ cột điều trị nền tảng được khởi động đồng thời và tăng liều mỗi 1–2 tuần.]]></description>
+      <content:encoded><![CDATA[
+<h3>Tổng quan</h3>
+<p>Hội Tim mạch châu Âu (ESC) công bố guideline suy tim mới ngày 28/8/2026 (Eur Heart J 2026), thay thế bản 2021. Đây là thay đổi lớn nhất trong hơn một thập kỷ: phân loại theo phân suất tống máu chỉ còn hai kiểu hình, danh pháp điều trị được đổi tên, hệ giai đoạn A–D được dùng song song, và "suy tim cấp" được đổi thành "suy tim mất bù".</p>
+<h3>Phân loại mới: chỉ còn hai kiểu hình</h3>
+<ul>
+<li><strong>HFrEF</strong> — LVEF dưới 50% kèm triệu chứng hoặc dấu hiệu suy tim.</li>
+<li><strong>HFpEF</strong> — LVEF từ 50% trở lên, kèm triệu chứng/dấu hiệu và bằng chứng khách quan về bất thường cấu trúc hoặc chức năng tim (thường kèm peptide lợi niệu tăng), và không có ghi nhận LVEF dưới 50% trước đây.</li>
+</ul>
+<p>Nhóm suy tim phân suất tống máu giảm nhẹ (HFmrEF, LVEF 41–49%) đã bị bỏ: bệnh nhân nhóm này giống HFrEF về sinh lý bệnh và đáp ứng điều trị. Bệnh nhân LVEF 45% trước đây gọi là HFmrEF thì nay là HFrEF và được điều trị bằng bốn trụ cột đầy đủ. Khi điều trị làm LVEF tăng tuyệt đối ít nhất 10 điểm phần trăm và lên trên 40%, đó là suy tim phân suất tống máu cải thiện (HFimpEF) — vẫn duy trì điều trị nền tảng, không ngừng thuốc.</p>
+<h3>Giai đoạn A–D</h3>
+<p>Hệ giai đoạn dùng song song với phân loại theo LVEF: <strong>A</strong> — có nguy cơ suy tim; <strong>B</strong> — tiền suy tim (đã có bất thường cấu trúc/chức năng tim nhưng chưa có triệu chứng); <strong>C</strong> — suy tim có triệu chứng; <strong>D</strong> — suy tim tiến triển.</p>
+<h3>Điều trị nền tảng (FMT) ở HFrEF: bốn trụ cột</h3>
+<p>Thuật ngữ "điều trị theo guideline" (GDMT) được thay bằng điều trị nền tảng (foundational medical therapy — FMT). Bốn trụ cột ở HFrEF:</p>
+<ul>
+<li><strong>Ức chế hệ renin-angiotensin:</strong> ức chế men chuyển, hoặc ARNI (sacubitril/valsartan), hoặc ARB nếu không dung nạp.</li>
+<li><strong>Ức chế beta.</strong></li>
+<li><strong>Đối kháng thụ thể mineralocorticoid (MRA).</strong></li>
+<li><strong>Ức chế SGLT2</strong> (dapagliflozin hoặc empagliflozin 10 mg mỗi ngày).</li>
+</ul>
+<p>Nguyên tắc hiện đại: khởi động đồng thời cả bốn nhóm ngay khi chẩn đoán, tăng liều ít nhất mỗi 1–2 tuần tới liều trong thử nghiệm lâm sàng hoặc liều tối đa dung nạp được — không khởi động từng thuốc một rồi tăng liều chậm trong nhiều tháng như cách làm cũ.</p>
+<h3>HFpEF: nền tảng là SGLT2i và MRA</h3>
+<p>Ở HFpEF, điều trị nền tảng gồm ức chế SGLT2 và MRA — cả hai đều được khuyến cáo Class I cho mọi bệnh nhân suy tim có triệu chứng bất kể phân suất tống máu. Lợi tiểu quai dùng khi có sung huyết. Lần đầu tiên, liệu pháp dựa trên GLP-1 được khuyến cáo ở bệnh nhân béo phì kèm HFpEF.</p>
+<h3>Chẩn đoán: ngưỡng NT-proBNP theo tuổi</h3>
+<p>Ngưỡng NT-proBNP cho suy tim mạn nay theo tuổi: từ 125 pg/mL ở người dưới 50 tuổi, 250 pg/mL ở người 50–75 tuổi, 500 pg/mL ở người trên 75 tuổi; BNP từ 35 pg/mL. Lưu ý: béo phì làm giảm NT-proBNP (có thể âm tính giả), rung nhĩ và suy thận làm tăng NT-proBNP (có thể dương tính giả).</p>
+<h3>"Suy tim cấp" đổi thành "suy tim mất bù"</h3>
+<p>Thuật ngữ "suy tim cấp" (acute HF) được thay bằng "suy tim mất bù" (decompensated HF — DHF), phản ánh đúng bản chất: đây là đợt mất bù của một hội chứng mạn tính, không phải một bệnh cấp riêng biệt.</p>
+<h3>Một số điểm mới khác</h3>
+<ul>
+<li>Đánh giá nguy cơ đột quỵ ở rung nhĩ kèm suy tim dùng thang <strong>CHA2DS2-VA</strong>, đã loại bỏ điểm giới tính nữ (khác thang CHA2DS2-VASc cũ).</li>
+<li>Thiếu sắt trong suy tim được định nghĩa chủ yếu bằng <strong>TSAT dưới 20%</strong>; sắt tĩnh mạch cải thiện triệu chứng và chất lượng sống.</li>
+</ul>
+<p><strong>Tài liệu tham khảo:</strong> Køber L, Adamo M, et al. 2026 ESC Guidelines for the management of heart failure. Eur Heart J. 2026. doi:10.1093/eurheartj/ehag100.</p>
+      ]]></content:encoded>
+    </item>
     <item>
       <title>Thử nghiệm STREAM: ngừng statin ở người từ 70 tuổi không có bệnh tim mạch không thua kém sau 2 năm</title>
       <link>https://www.nejm.org/doi/full/10.1056/nejmoa2606634</link>
       <guid isPermaLink="false">dracia-med-20261123-stream-001</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0700</pubDate>
+      <pubDate>Tue, 24 Nov 2026 18:35:00 +0700</pubDate>
       <source url="https://www.nejm.org/">NEJM</source>
       <category domain="channel">medical</category>
       <category domain="specialty">tim-mach</category>
       <category domain="specialty">noi-khoa</category>
       <category domain="badge">Research</category>
       <description><![CDATA[Thử nghiệm STREAM (NEJM, 7/11/2026) trên 1.880 người từ 70 tuổi trở lên dùng statin để phòng ngừa tiên phát và có ít nhất 2 bệnh mạn tính cho thấy ngừng statin không thua kém tiếp tục dùng về biến cố tim mạch lớn hoặc tử vong sau 2 năm (chênh lệch thời gian sống không biến cố trung bình −2,0 tuần, trong ngưỡng không thua kém −5,2 tuần). Tuy nhiên, tỉ lệ tuyệt đối có biến cố chính cao hơn ở nhóm ngừng thuốc (12,7% so với 9,2%), nên quyết định ngừng statin vẫn cần cân nhắc theo từng bệnh nhân.]]></description>
+      <content:encoded><![CDATA[
+<h3>Tổng quan</h3>
+<p>Có nên tiếp tục statin ở người cao tuổi đa bệnh khi chưa từng có bệnh tim mạch? Thử nghiệm STREAM trả lời câu hỏi này: ngừng statin không thua kém tiếp tục dùng về biến cố tim mạch lớn hoặc tử vong sau 2 năm — nhưng tỉ lệ tuyệt đối có biến cố lại cao hơn ở nhóm ngừng thuốc. Nghiên cứu đăng trên New England Journal of Medicine ngày 7/11/2026, báo cáo đồng thời tại AHA Scientific Sessions 2026, tài trợ bởi Swiss National Science Foundation (NCT05178420).</p>
+<h3>Thiết kế nghiên cứu</h3>
+<ul>
+<li><strong>Loại thử nghiệm:</strong> ngẫu nhiên, mở nhãn, không thua kém, quốc tế (24 trung tâm tại Thụy Sĩ, Hà Lan, Pháp).</li>
+<li><strong>Đối tượng:</strong> 1.880 người từ 70 tuổi trở lên đang dùng statin để phòng ngừa tiên phát, có ít nhất 2 bệnh mạn tính và chưa từng có bệnh tim mạch do xơ vữa. Tuổi trung bình 77,5; 46,9% là nữ.</li>
+<li><strong>Can thiệp:</strong> chia 1:1 — ngừng statin (938 người) hoặc tiếp tục dùng (942 người). Thời gian theo dõi trung vị 103 tuần.</li>
+<li><strong>Biến cố chính:</strong> nhồi máu cơ tim không tử vong, đột quỵ thiếu máu não không tử vong, hoặc tử vong mọi nguyên nhân.</li>
+</ul>
+<h3>Kết quả chính</h3>
+<p>Chênh lệch thời gian sống không biến cố trung bình (restricted mean event-free survival time) sau 2 năm là <strong>−2,0 tuần</strong> (khoảng tin cậy 95%: −3,7 đến −0,3; P &lt; 0,001 cho không thua kém), nằm trong ngưỡng không thua kém −5,2 tuần. Ngừng statin đạt tiêu chí không thua kém so với tiếp tục dùng.</p>
+<h3>Điểm cần đọc kỹ</h3>
+<p>Tỉ lệ tuyệt đối có biến cố chính cao hơn ở nhóm ngừng thuốc: <strong>12,7%</strong> (119 người) so với <strong>9,2%</strong> (87 người) ở nhóm tiếp tục dùng. Biến cố bất lợi nghiêm trọng: 43,0% so với 39,8%. Đạt không thua kém về thời gian sống không biến cố trung bình không có nghĩa là hai nhóm bằng nhau về số người có biến cố — đây là điểm sinh viên Y cần học khi đọc trial: luôn nhìn cả kết quả chính lẫn tỉ lệ tuyệt đối.</p>
+<h3>Ý nghĩa lâm sàng</h3>
+<p>Ngừng statin có thể cân nhắc ở người cao tuổi đa bệnh đang phòng ngừa tiên phát khi gánh nặng thuốc lớn hoặc lợi ích tiếp tục dùng không rõ ràng, nhưng quyết định vẫn theo từng bệnh nhân. Kết quả này không áp dụng cho phòng ngừa thứ phát — bệnh nhân đã có bệnh tim mạch do xơ vữa không nằm trong thử nghiệm.</p>
+<p><strong>Tài liệu tham khảo:</strong> Discontinuing Statins in Older Adults without Cardiovascular Disease. N Engl J Med. 2026. doi:10.1056/NEJMoa2606634.</p>
+      ]]></content:encoded>
     </item>
   </channel>
 </rss>
