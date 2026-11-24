@@ -5,7 +5,40 @@
     <link>https://news.mranex.com/med/</link>
     <description>Tin Y khoa mới nhất và Kiến thức hôm nay, cập nhật mỗi ngày.</description>
     <language>vi-VN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 18:40:00 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:02:44 +0700</lastBuildDate>
+<item>
+  <title>FLAURA2: thêm hóa trị vào osimertinib kéo dài sống thêm gần 10 tháng ở ung thư phổi có đột biến EGFR</title>
+  <link>https://doi.org/10.1056/NEJMoa2510308</link>
+  <guid isPermaLink="false">dracia-knowledge-20261125-001</guid>
+  <pubDate>Wed, 25 Nov 2026 07:00:00 +0700</pubDate>
+  <source url="https://doi.org/10.1056/NEJMoa2510308">Jänne PA et al. Survival with osimertinib plus chemotherapy in EGFR-mutated advanced NSCLC. N Engl J Med. 2026;394(1):27-38.</source>
+  <category domain="channel">knowledge</category>
+  <category domain="specialty">ho-hap</category>
+  <description><![CDATA[Kết quả sống còn cuối cùng của FLAURA2 (NEJM 2026): osimertinib + hóa trị đạt trung vị sống thêm 47,5 tháng so với 37,6 tháng khi dùng đơn trị — nhưng độc tính độ ≥3 tăng gấp đôi. Đọc trước buổi webinar chiều mai 14:30.]]></description>
+  <content:encoded><![CDATA[
+<h3>FLAURA2 hỏi gì?</h3>
+<p>Osimertinib đơn trị đã là chuẩn điều trị bước một ở ung thư phổi không tế bào nhỏ (UTPKTBN) giai đoạn tiến triển có đột biến EGFR nhạy cảm (xóa exon 19 hoặc L858R exon 21). FLAURA2 hỏi: thêm hóa trị platinum-pemetrexed ngay từ đầu có kéo dài thêm thời gian kiểm soát bệnh và sống còn hay không?</p>
+<p>Thử nghiệm pha III, nhãn mở, quốc tế, 557 bệnh nhân chưa điều trị bệnh tiến triển, chia 1:1 — osimertinib 80 mg/ngày + pemetrexed và cisplatin hoặc carboplatin, so với osimertinib đơn trị. Kết cục chính là sống thêm không tiến triển (PFS) do nhà nghiên cứu đánh giá.</p>
+<h3>Kết quả chính</h3>
+<ul>
+<li><strong>PFS:</strong> trung vị 25,5 tháng (phối hợp) so với 16,7 tháng (đơn trị); HR 0,62 (95% CI 0,49–0,79; P &lt; 0,0001) — dài hơn khoảng 8,8 tháng.</li>
+<li><strong>Sống còn toàn bộ (phân tích cuối, NEJM 2026, theo dõi trung vị trên 51 tháng):</strong> trung vị 47,5 tháng so với 37,6 tháng; HR tử vong 0,77 (95% CI 0,61–0,96; P = 0,02) — dài hơn khoảng 9,9 tháng.</li>
+<li><strong>Di căn não:</strong> lợi ích rõ nhất ở nhóm có di căn não từ đầu — PFS HR 0,47 (95% CI 0,33–0,66); PFS tại thần kinh trung ương trung vị 24,9 so với 13,8 tháng; tỉ lệ sống 3 năm ở nhóm có di căn não là 57% so với 40% (HR 0,72).</li>
+<li><strong>Độc tính:</strong> tác dụng không mong muốn độ ≥3 ở phân tích cuối là 70% (phối hợp) so với 34% (đơn trị) — cái giá của việc tăng cường điều trị, chủ yếu do hóa trị.</li>
+</ul>
+<h3>Đọc kết quả thế nào?</h3>
+<ul>
+<li><strong>Ai được lợi nhất:</strong> bệnh nhân có yếu tố tiên lượng xấu — di căn não, đột biến L858R (PFS HR 0,63), gánh nặng bệnh cao. Đây chính là nhóm mà đơn trị TKI thường kiểm soát chưa đủ sâu.</li>
+<li><strong>FDA đã phê duyệt</strong> phác đồ phối hợp ngày 16/02/2024 cho UTPKTBN tiến triển tại chỗ hoặc di căn có xóa exon 19 hoặc L858R — đúng nhóm bệnh nhân trong thử nghiệm, không mở rộng ra mọi đột biến EGFR.</li>
+<li><strong>Hạn chế cần nhớ:</strong> thử nghiệm nhãn mở (biết nhóm điều trị); lợi ích sống còn chịu ảnh hưởng của các điều trị sau tiến triển; phân tích di căn não là phân tích dưới nhóm, mang tính mô tả; FLAURA2 không chụp MRI não định kỳ thường quy cho mọi bệnh nhân như MARIPOSA.</li>
+<li><strong>Bối cảnh:</strong> amivantamab + lazertinib (MARIPOSA) cũng là một lựa chọn bước một được ưu tiên khác, với HR tử vong 0,75 — lựa chọn giữa hai hướng tăng cường vẫn cần cân nhắc độc tính, đường dùng và đặc điểm từng bệnh nhân, chưa có so sánh trực tiếp đối đầu.</li>
+</ul>
+<h3>Điểm mang về</h3>
+<p>FLAURA2 là bằng chứng sống còn đầu tiên cho thấy tăng cường ngay từ đầu bằng hóa trị trên nền osimertinib giúp bệnh nhân EGFR sống lâu hơn gần 10 tháng, đặc biệt khi có di căn não — đổi lại bằng độc tính cao hơn hẳn. Câu hỏi lâm sàng vì vậy không còn là "phối hợp có hiệu quả không" mà là "bệnh nhân nào xứng đáng trả giá độc tính đó".</p>
+<p><strong>Tài liệu tham khảo:</strong> Jänne PA, Planchard D, Kobayashi K, et al. Survival with osimertinib plus chemotherapy in EGFR-mutated advanced NSCLC. N Engl J Med. 2026;394(1):27-38. doi:10.1056/NEJMoa2510308. Planchard D, et al. Osimertinib with or without chemotherapy in EGFR-mutated advanced NSCLC (FLAURA2). N Engl J Med. 2023. FDA approval: 16/02/2024.</p>
+<p><em>Bài tóm tắt giáo dục cho sinh viên Y, không thay thế hướng dẫn điều trị hay quyết định lâm sàng trên từng bệnh nhân.</em></p>
+  ]]></content:encoded>
+</item>
     <item>
       <title>Suy tim theo ESC 2026: chỉ còn hai kiểu hình, HFrEF mở rộng tới LVEF dưới 50%</title>
       <link>https://www.escardio.org/news/news-room/congress-news/2026-esc-guidelines-for-the-management-of-heart-failure/</link>
